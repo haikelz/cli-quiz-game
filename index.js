@@ -32,7 +32,7 @@ async function welcome() {
   console.log(`
 ${chalk.bgGray('Rules: ')}
 1. Di dalam quiz ini, ada 4 pertanyaan yang diberikan. 
-2. Jika jawan kamu ada yang salah satu saja, maka kamu akan ${chalk.bgGray('tereliminasi')}.
+2. Jika jawaban kamu ada yang salah satu saja, maka kamu akan ${chalk.bgGray('tereliminasi')}.
 3. Jika jawaban kamu benar semua, maka kamu akan mendapatkan salah satu hadiah dari beberapa daftar hadiah berikut: 
 
    [
